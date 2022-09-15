@@ -1,0 +1,11 @@
+{
+  "name": "website-to-jsx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Frank Lyder Bredland <fl@nyggen.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}
